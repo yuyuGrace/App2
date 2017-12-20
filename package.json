@@ -1,0 +1,8 @@
+{
+  "name": "demo-for-nodejs",
+  "version": "0.0.1",
+  "description": "demo-for-nodejs",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
